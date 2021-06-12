@@ -1,5 +1,5 @@
 # Smartparking
 
 ## _Purpose:_
-A smart parking lot monitoring system
+An IOT based smart parking system designed using the combine hardware of Raspi and Hologram.io 3G commmunication.
 
